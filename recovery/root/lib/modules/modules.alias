@@ -395,6 +395,8 @@ alias of:N*T*Ccirrus,ln8000-main ln8000_charger
 alias of:N*T*Ccirrus,ln8000-mainC* ln8000_charger
 alias of:N*T*Ccirrus,ln8000-second ln8000_charger
 alias of:N*T*Ccirrus,ln8000-secondC* ln8000_charger
+alias of:N*T*Cxiaomi,xm-chg-dfs xm_chg_dfs
+alias of:N*T*Cxiaomi,xm-chg-dfsC* xm_chg_dfs
 alias of:N*T*Cmediatek,mt2701-mmsys mediatek_drm
 alias of:N*T*Cmediatek,mt2701-mmsysC* mediatek_drm
 alias of:N*T*Cmediatek,mt2712-display mediatek_drm

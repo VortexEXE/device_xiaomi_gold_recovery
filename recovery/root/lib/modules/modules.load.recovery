@@ -3,6 +3,7 @@ hq_kallsyms.ko
 mrdump.ko
 aee_aed.ko
 monitor_hang.ko
+hq_notify.ko
 aee_hangdet.ko
 mtk_printk_ctrl.ko
 log_store.ko
@@ -23,13 +24,13 @@ clk-mt6833-i2c.ko
 clk-mt6833-bus.ko
 clk-mt6833-vcodec.ko
 clk-mt6833-mfgcfg.ko
+mtk-scpsys.ko
+mtk-scpsys-bringup.ko
+mtk-scpsys-mt6833.ko
 clk-chk-mt6833.ko
 pd-chk-mt6833.ko
 clk-dbg-mt6833.ko
 clk-fmeter-mt6833.ko
-mtk-scpsys.ko
-mtk-scpsys-bringup.ko
-mtk-scpsys-mt6833.ko
 i2c-mt65xx.ko
 spi-mt65xx.ko
 mitee.ko
@@ -97,6 +98,7 @@ mt6360-adc.ko
 mtk-mmc-dbg.ko
 mtk-mmc.ko
 mtk-mmc-wp.ko
+miev.ko
 mi_memory.ko
 pmic_lbat_service.ko
 pmic_lvsys_notify.ko
@@ -125,6 +127,7 @@ mtk_pep.ko
 rt_pd_manager.ko
 tcpci_late_sync.ko
 extcon-mtk-usb.ko
+xm_chg_dfs.ko
 mtk-afe-external.ko
 clkbuf.ko
 mtk-emi.ko
